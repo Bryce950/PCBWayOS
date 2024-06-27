@@ -1,2 +1,2 @@
 # PCBWayOS
-The Operating System That Tells You About PCBWay
+The Operating System That Tells You About [PCBWay](pcbway.com)
