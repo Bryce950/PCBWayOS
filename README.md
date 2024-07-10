@@ -37,7 +37,13 @@ INSTALL [HERE](https://sites.google.com/view/pcbwayos/home)
                                       .+++#    .++++    +++      .++=                               
                                         ++++++++++      .=++++++++++.                               
                                                             .=++.                                   
+# Install
+
+Install Here -> [INSTALL](https://sites.google.com/view/pcbwayos/home)
+
+- (please note that by downloading PCBWayOS, you have a increased chance of being infected with the mila here and the MORPHLECRYINGID-88 virus. Please refer to [here](https://youtu.be/HS1MU6xGtWE?feature=shared) for treatment method)
                                                                                                     
+                                                                                                  
                                                                                                     
                                                                                                     
                                                                                                     
